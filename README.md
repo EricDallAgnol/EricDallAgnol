@@ -46,7 +46,7 @@ Badges made with https://shields.io/
 ---------
   
 <h3 align="center">
-⬇️ Reach me out ! ⬇️
+⬇️ Connect with me ! ⬇️
 </h3>
 
 <div align="center">
