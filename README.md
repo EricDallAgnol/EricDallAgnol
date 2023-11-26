@@ -1,6 +1,18 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=300&color=249EF7&multiline=true&width=435&height=100&lines=Hi+there+!;Nice+to+meet+you+;Welcome+to+my+Readme)](https://git.io/typing-svg)
 
 
+### 👋 About me
+
+#### 🚀 Passionate Fullstack Java/React Developer | Atoti Specialist | Banking Consultant
+
+Hello! 👋 I'm Éric, a fullstack developer driven to push technological boundaries. 
+
+With a solid two-year banking background, I excel in crafting robust solutions that seamlessly integrate finance and technology, specializing in Atoti. Fueled by curiosity, I'm on a journey to merge financial insights with cutting-edge IT solutions. Ready for new challenges, I seek ventures that foster both professional and personal growth ! 
+
+Beyond 9 to 5, I indulge in personal IT projects 💻, believing in the power of continuous learning 📖, and balance my interests as a sports enthusiast 🏃 and junior trader. 
+
+----------
+
 <!--
 Typing code made with https://readme-typing-svg.demolab.com/demo/
 Badges made with https://shields.io/
