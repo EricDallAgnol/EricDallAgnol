@@ -23,6 +23,7 @@ Badges made with https://shields.io/
 ![Java](https://img.shields.io/badge/java-orange?style=for-the-badge&logo=java&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/typescript-3178C6.svg?style=for-the-badge&logo=typescript&logoColor=white)
 ![Python](https://img.shields.io/badge/python-3776AB.svg?style=for-the-badge&logo=python&logoColor=white)
+![VBA](https://img.shields.io/badge/vba-512BD4.svg?style=for-the-badge&logo=vba&logoColor=white)
 
 ----------
 
