@@ -54,7 +54,8 @@ Badges made with https://shields.io/
 ---------
 
 ### :mag_right: Currently learning
-![Astro](https://img.shields.io/badge/astro-FF5D01.svg?style=for-the-badge&logo=astro&logoColor=white)
+![Root Me](https://img.shields.io/badge/rootme-000000.svg?style=for-the-badge&logo=rootme&logoColor=white)
+![Steganography](https://img.shields.io/badge/steganography-FF5D01.svg?style=for-the-badge&logo=springsecurity&logoColor=white)
   
 ---------
   
