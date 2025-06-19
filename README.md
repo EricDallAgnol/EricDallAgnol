@@ -7,7 +7,7 @@
 
 Hello! 👋 I'm Éric, a fullstack developer driven to push technological boundaries. 
 
-With a solid three-year banking background, I excel in crafting robust solutions that seamlessly integrate finance and technology, specializing in Atoti. Fueled by curiosity, I'm on a journey to merge financial insights with cutting-edge IT solutions. Ready for new challenges, I seek ventures that foster both professional and personal growth ! 
+With a solid four-year banking background, I excel in crafting robust solutions that seamlessly integrate finance and technology, specializing in Atoti. Fueled by curiosity, I'm on a journey to merge financial insights with cutting-edge IT solutions. Ready for new challenges, I seek ventures that foster both professional and personal growth ! 
 
 Beyond 9 to 5, I indulge in personal IT projects 💻, believing in the power of continuous learning 📖, and balance my interests as a sports enthusiast 🏃 and junior trader. 
 
